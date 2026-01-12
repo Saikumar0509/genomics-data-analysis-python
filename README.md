@@ -7,7 +7,7 @@ It is intended for junior bioinformatics and genomics data analyst roles.
 ## Skills Used
 - Python
 - Genomics data analysis
-- Data handling and visualization
+- Data handling and visualisation
 - Git & GitHub
 
 ## Project Structure
